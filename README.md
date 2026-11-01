@@ -61,5 +61,3 @@ Thanks for visiting my repository!
 Feel free to explore my programs and follow my learning journey.
 
 ---
-
-*Learning step by step, one program at a time.*
